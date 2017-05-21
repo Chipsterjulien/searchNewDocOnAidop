@@ -1,0 +1,16 @@
+[default]
+login = ""
+password = ""
+savedJSONFile = ""
+
+[url]
+webSite = ""
+filesLocation = ""
+
+[email]
+from = ""
+smtp = ""
+port = ""
+login = ""
+password = ""
+sendTo = [""]
